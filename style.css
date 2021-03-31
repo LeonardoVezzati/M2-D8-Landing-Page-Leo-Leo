@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 .titleBox{
   text-align: center;
   margin-top: 40px;
@@ -75,8 +75,9 @@
 	flex-direction: column;
   justify-content: center;
   height: calc(400px/3);
-  text-align: center;
-=======
+  text-align: center; 
+}
+
 .relative {
     position: relative;
 }
@@ -86,5 +87,4 @@
     left:50%;
     top:50%;
     transform: translate(-50%,-50%);
->>>>>>> Stashed changes
 }
