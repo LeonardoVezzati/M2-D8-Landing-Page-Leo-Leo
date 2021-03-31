@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .titleBox{
   text-align: center;
   margin-top: 40px;
@@ -75,4 +76,15 @@
   justify-content: center;
   height: calc(400px/3);
   text-align: center;
+=======
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+>>>>>>> Stashed changes
 }
