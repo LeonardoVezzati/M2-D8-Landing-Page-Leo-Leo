@@ -91,7 +91,29 @@
     transform: translate(-50%,-50%);
 }
 
+<<<<<<< Updated upstream
 button {
     color: grey !important;
     border-color: grey !important;
 }
+=======
+.headingEx4{
+  display: inline-block;
+}
+
+.secondaryTextEx4{
+  display: inline-block;
+  font-size: 24px;
+}
+
+.card-footer{
+  background-color: rgb(233, 233, 233);
+  width: 100%;
+}
+
+.card-footer p{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin:0;
+}
+>>>>>>> Stashed changes
