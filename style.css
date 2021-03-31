@@ -58,6 +58,7 @@
   justify-content: center;
   height: calc(400px/3);
   text-align: center;
+  max-width: 100%;
 }
 
 .lightYellow2{
@@ -67,6 +68,7 @@
   justify-content: center;
   height: calc(400px/3);
   text-align: center;
+  max-width: 100%;
 }
 
 .lightYellow3{
