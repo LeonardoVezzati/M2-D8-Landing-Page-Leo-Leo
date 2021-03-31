@@ -91,7 +91,6 @@
     transform: translate(-50%,-50%);
 }
 
-<<<<<<< Updated upstream
 button {
     color: grey !important;
     border-color: grey !important;
@@ -116,4 +115,12 @@ button {
   padding-bottom: 5px;
   margin:0;
 }
->>>>>>> Stashed changes
+
+.UlFooter li{
+  color: grey;
+  font-size: 16px;
+}
+
+.UlFooter{
+  margin-top: 5px;
+}
